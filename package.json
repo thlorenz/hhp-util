@@ -1,6 +1,6 @@
 {
   "name": "hhp-util",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Poker HandHistory Parser Utilities",
   "main": "hhp-util.js",
   "repository": {
