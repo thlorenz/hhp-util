@@ -1,0 +1,28 @@
+{
+  "name": "hhp-util",
+  "version": "0.0.0",
+  "description": "Poker HandHistory Parser Utilities",
+  "main": "hhp-util.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thlorenz/hhp-util.git"
+  },
+  "homepage": "https://github.com/thlorenz/hhp-util",
+  "dependencies": {
+    "ntz": "~0.1.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": {
+    "name": "Thorsten Lorenz",
+    "email": "thlorenz@gmx.de",
+    "url": "http://thlorenz.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/thlorenz/hhp-util/blob/master/LICENSE"
+  },
+  "engine": {
+    "node": ">=6"
+  }
+}
