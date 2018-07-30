@@ -19,7 +19,7 @@ function fixAllinActions(actions) {
         a.raiseTo = a.amount
         a.amount = null
       } else {
-        a.action = 'call'
+        a.type = 'call'
       }
     }
     if (withAmount) lastAmount = amount
